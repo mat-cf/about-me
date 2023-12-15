@@ -1,9 +1,9 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  css: ['vuetify/lib/styles/main.sass', '@/assets/global.scss'],
-  build: {
-    transpile: ['vuetify'],
-  },
+  css: ['@/assets/global.scss'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+  ],
   vite: {
     define: {
       'process.env.DEBUG': false,
