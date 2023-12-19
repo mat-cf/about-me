@@ -1,8 +1,16 @@
 <template>
-  <h1>{{ name }}</h1>
-  <p class="my-3" v-for="paragraph in paragraphs">
-    {{ paragraph.text }}
-  </p>
+  <div>
+    <div class="m-auto mb-8">
+      <h1 class="mb-0">{{ name }}</h1>
+    </div>
+    <article>
+      <div class="prose m-auto">
+        <p class="my-3" v-for="paragraph in paragraphs">
+          {{ paragraph.text }}    
+        </p>
+      </div>
+    </article>
+  </div>
 </template>
 
 <script setup lang="ts">

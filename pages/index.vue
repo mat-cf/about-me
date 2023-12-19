@@ -1,22 +1,13 @@
 <template>
-  <div>
-    <header>
-      <nav>
-        <NuxtLink to="/">Nuxt Home</NuxtLink>
-        <ul>
-          <li>
-            <NuxtLink to="/">Home</NuxtLink>
-            <NuxtLink to="/about">About</NuxtLink>
-            <NuxtLink to="/">Projects</NuxtLink>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <h2 class="">Home</h2>
-    <h3>Teste1 Teste1 Teste1</h3>
-    <h3>Teste2 Teste2 Teste2</h3>
+  <div class="m-auto max-w-xl">
+    <AppAbout />
+    <hr class="w-16 h-1 mx-auto my-4 border-0 rounded md:my-10 bg-gray-700">
+    <AppFooter />
   </div>
 </template>
 
 <script setup lang="ts">
+
+
+
 </script>
