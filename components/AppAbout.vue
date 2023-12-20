@@ -9,6 +9,15 @@
           {{ paragraph.text }}    
         </p>
       </div>
+      <hr class="w-16 h-1 mx-auto my-4 border-0 rounded md:my-10 bg-brand-text">
+      <p>Find me on</p>
+      <div class="flex gap-4">
+        <p class="my-3" v-for="link in links">
+          <a class="underline hover:no-underline" :href="link.url" target="_blank">
+            {{ link.title }}
+          </a>
+        </p>
+      </div>
     </article>
   </div>
 </template>
@@ -27,5 +36,23 @@ const paragraphs = ref([
     text: 'Outside of programming, I enjoy video-games, travelling and playing bass. I have a band too, which can be found on Instagram. Sometimes we do shows too, it is pretty fun.',
   },
 ]);
+
+const links = ref([
+  {
+    url: "https://github.com/bluz1n",
+    title: "Github",
+    icon: "bi bi-github"
+  },
+  {
+    url: "https://www.linkedin.com/in/matheus-arruda-3a5657181/",
+    title: "LinkedIn",
+    icon: "bi bi-linkedin"
+  },
+  {
+    url: "https://www.instagram.com/_matcf/",
+    title: "Instagram",
+    icon: "bi bi-instagram"
+  },
+])
 
 </script>

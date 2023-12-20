@@ -1,14 +1,16 @@
 <template>
   <div>
     <p>
-      Find me on
+      Something else down here
     </p>
     <p>
-      oi
+      Something
     </p>
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+
+
 
 </script>
