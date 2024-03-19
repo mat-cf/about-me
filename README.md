@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Portfolio Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is my personal website, built with Vue, Nuxt and Tailwind CSS for styling. The goal here is to summarize my experience in one place.
+
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about Nuxt. <br>
+Look at the [Vue 3 documentation](https://vuejs.org/guide/introduction.html) to learn more about Vue. <br>
+Look at the [Tailwind CSS documentation](https://tailwindcss.com/docs/installation) to learn more about Tailwind CSS. <br>
 
 ## Setup
 
