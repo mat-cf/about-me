@@ -8,4 +8,9 @@ export default defineNuxtConfig({
       'process.env.DEBUG': false,
     },
   },
+  runtimeConfig: {
+    public: {
+      basePath: '/portfolio/'
+    }
+  }
 })
