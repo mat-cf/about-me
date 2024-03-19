@@ -7,10 +7,9 @@
         </NuxtLink>
         <ul class="flex gap-4">
           <!-- use a for loop here for the li -->
-          <li><NuxtLink to="/">Home</NuxtLink></li>
+          <!-- <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
-          <li><NuxtLink to="/projects">Projects</NuxtLink></li>
-          <li><NuxtLink to="/products">Products</NuxtLink></li>
+          <li><NuxtLink to="/projects">Projects</NuxtLink></li> -->
         </ul>
       </nav>
     </header>
@@ -18,7 +17,6 @@
 </template>
 
 <script setup lang="ts">
-
 
 /* 
   put some section/link logic here, so the template keeps clean
