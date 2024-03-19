@@ -2,9 +2,9 @@
   <div>
     <header>
       <nav class="container p-8 flex justify-between">
-        <NuxtLink to="/" class="font-bold">
+        <!-- <NuxtLink to="/" class="font-bold">
           <Icon name="bi:dice-3" />
-        </NuxtLink>
+        </NuxtLink> -->
         <ul class="flex gap-4">
           <!-- use a for loop here for the li -->
           <!-- <li><NuxtLink to="/">Home</NuxtLink></li>
