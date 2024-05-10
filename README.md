@@ -1,6 +1,6 @@
 # Portfolio Starter
 
-This is my personal website, built with Vue, Nuxt and Tailwind CSS for styling. The goal here is to summarize my experience in one place.
+This is my personal website, built with Vue, Nuxt and Tailwind CSS for styling. The goal here is to provide a simple About Me page.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about Nuxt. <br>
 Look at the [Vue 3 documentation](https://vuejs.org/guide/introduction.html) to learn more about Vue. <br>
