@@ -34,7 +34,7 @@
 const name = ref('Matheus Costa');
 const links = ref([
   {
-    url: "https://github.com/bluz1n",
+    url: "https://github.com/mat-cf",
     title: "Github",
     icon: "bi:github"
   },
