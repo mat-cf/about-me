@@ -9,7 +9,7 @@
           Hey, I'm Matheus, a Web-Dev/Software Engineer.
         </p>
         <p class="my-3">
-          My goal is to always dream bigger and bigger, and explore where I can get more knowledge. This is why I have explored multiple fields, such as fullstack web-dev and data handling with AI. Learning is a passion.
+          Be ambitious, stay humble. Full-stack web-dev and data handling and analysis, with a passion for learning.
         </p>
         <p class="my-3">
           Outside of programming, I enjoy video-games, travelling and playing bass. I have a band too, which can be found on <a class="underline" href="https://www.instagram.com/celacanto.wav/" target="_blank">Instagram</a>. Sometimes we do shows too, it is pretty fun.
